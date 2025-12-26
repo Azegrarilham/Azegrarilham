@@ -4,9 +4,7 @@
 
 ###
 ---
-<div align="center">
-  <img src="https://count.getloli.com/@:Azegrarilham?theme=3d-num&padding=4&offset=17&scale=1&align=center&pixelated=1&darkmode=auto"  />
-</div>
+
 
 ###
 
