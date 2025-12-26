@@ -68,6 +68,12 @@
 
 <br clear="both">
 
+<p align="center">___________________________________</p>
+
+###
+
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azegrarilham/Azegrarilham/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azegrarilham/Azegrarilham/output/pacman-contribution-graph.svg">
@@ -80,6 +86,17 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azegrarilham&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ilham-azegrar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="itch logo"  />
 </div>
 
 ###
